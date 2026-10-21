@@ -1,0 +1,10 @@
+{
+  "name": "genpark-graph-cycle-deadlock-detector-skill",
+  "version": "1.0.1",
+  "description": "Tarjan strongly connected components cycle and deadlock detector for multi-agent DAG execution workflows",
+  "tools": [
+    "validate_dag",
+    "detect_deadlocks",
+    "suggest_cycle_resolution"
+  ]
+}
